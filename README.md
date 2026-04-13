@@ -44,8 +44,8 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/clayhackergroup/atomic.git
-cd atomic
+git clone https://github.com/clayhackergroup/Atomic.git
+cd Atomic
 
 # 2. Run setup script
 chmod +x setup.sh
